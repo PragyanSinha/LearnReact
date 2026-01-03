@@ -1,2 +1,2 @@
 # LearnReact
-This repository contains all the concepts of react.
+This repository contains introductory concepts of react.
